@@ -1,2 +1,2 @@
 #!/bin/sh
-afplay ./node_modules/git-td4w/TD4W.mp3 > /dev/null 2>&1 &#!/bin/sh
+afplay ./node_modules/td4w/TD4W.mp3 > /dev/null 2>&1 &#!/bin/sh
