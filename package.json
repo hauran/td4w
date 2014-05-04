@@ -1,0 +1,20 @@
+{
+  "name": "td4w",
+  "description": "You da sickest coder around. Make sure everyone knows it!",
+  "version": "0.1.1",
+  "author": "hauran",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hauran/td4w"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/glg/aws-cli/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "install": "./bin/td4w.js"
+  },
+  "readmeFilename": "README.md"
+}
