@@ -1,11 +1,11 @@
 {
-  "name": "td4w",
-  "description": "You da sickest coder around. Make sure everyone knows it! #TD4W!",
+  "name": "git-td4w",
+  "description": "You da sickest coder around. Make sure everyone knows it!",
   "version": "0.1.2",
   "author": "hauran",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hauran/td4w"
+    "url": "https://github.com/hauran/git-td4w"
   },
   "licenses": [
     {
@@ -15,6 +15,9 @@
   ],
   "scripts": {
     "install": "./bin/td4w.js"
+  },
+  "dependencies": {
+    "colors": "*"
   },
   "readmeFilename": "README.md"
 }
